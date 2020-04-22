@@ -11,3 +11,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: Andrei_Stoian
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Human-friendly label
