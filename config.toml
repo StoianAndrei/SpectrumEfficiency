@@ -1,4 +1,5 @@
-baseURL = "http://spectrumefficiency.icu"
+baseURL = "https://spectrumefficiency.netlify.app"
+#baseURL = "http://spectrumefficiency.icu"
 title = "Hugo Zzo Theme"
 theme = "hugo-theme-zzo"
 
