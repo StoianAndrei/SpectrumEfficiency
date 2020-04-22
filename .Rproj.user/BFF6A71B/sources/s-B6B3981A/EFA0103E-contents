@@ -1,0 +1,14 @@
+---
+site: blogdown::blogdown_site
+
+---
+
+
+```{r}
+library(blogdown)
+
+hugo_build()
+serve_site()
+
+```
+
