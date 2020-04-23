@@ -1,6 +1,6 @@
 baseURL = "https://spectrumefficiency.netlify.app"
 #baseURL = "http://spectrumefficiency.icu"
-title = "Hugo Zzo Theme"
+title = "Spectrum Efficiency"
 theme = "hugo-theme-zzo"
 
 defaultContentLanguage = "en"
