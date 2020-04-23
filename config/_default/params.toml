@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "Andrei Stoian"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Radio Frequency Spectrum management unleashed through data automation."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -40,14 +40,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Andrei Stoian"
+email = "spectrum.efficiency.limited@gmail.com"
+whoami = "Data automation with telecommunication SME"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Wellington, New Zealand"
+organization = "Spectrum Efficiency"
+link = "https://spectrumefficiency.netlify.app"
 
 # sidebar
 enableBio = true
@@ -114,25 +114,6 @@ commento = false
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
 
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
 
 # Isso: https://posativ.org/isso/
 [isso]
@@ -141,11 +122,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
-  phone = ""
+  email = "spectrum.efficiency.limited@gmail.com"
+  phone = "0273982291"
   facebook = "http://example.org/"
   twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  github = "https://github.com/StoianAndrei/hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
