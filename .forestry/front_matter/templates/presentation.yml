@@ -1,0 +1,72 @@
+---
+label: presentation
+hide_body: true
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: highlightTheme
+  label: highlightTheme
+- type: file
+  name: image
+  label: image
+- type: list
+  name: plugins
+  label: plugins
+- type: field_group_list
+  name: reveal
+  label: reveal
+  fields:
+  - type: field_group_list
+    name: main
+    label: main
+    fields:
+    - type: list
+      name: sub
+      label: sub
+- type: text
+  name: revealBackgroundColor
+  label: revealBackgroundColor
+- type: text
+  name: revealBackgroundImage
+  label: revealBackgroundImage
+- type: text
+  name: revealBackgroundOpacity
+  label: revealBackgroundOpacity
+- type: text
+  name: revealBackgroundPosition
+  label: revealBackgroundPosition
+- type: text
+  name: revealBackgroundRepeat
+  label: revealBackgroundRepeat
+- type: text
+  name: revealBackgroundSize
+  label: revealBackgroundSize
+- type: text
+  name: revealBackgroundVideo
+  label: revealBackgroundVideo
+- type: boolean
+  name: revealBackgroundVideoLoop
+  label: revealBackgroundVideoLoop
+- type: boolean
+  name: revealBackgroundVideoMuted
+  label: revealBackgroundVideoMuted
+- type: text
+  name: revealTheme
+  label: revealTheme
+- type: list
+  name: series
+  label: series
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
