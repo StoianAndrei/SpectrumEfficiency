@@ -1,27 +1,24 @@
 ---
-date: "2019-02-28"
-description: Hugo, the world’s fastest framework for building websites
+date: "2020-04-23"
+description: Profile
 title: About
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Andrei likes building data process. A lot. And, unlike his stakeholders, he likes the change that it makes to their life. Luckily for his stakeholders, he likes resolving the business chalenges even more. 
+ 
 
-Hugo makes use of a variety of open source projects including:
+He also quite likes data visualisation – charts and dashboards like sharable data interactions using shiny framework. Yes, he likes looking at youtube videos of other people building data dashboars in his spare time.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ 
 
 
+When not eagerly anticipating her clients’ next innovation, she will be doing something dangerous like water skiing racing, mountain biking, snow skiing or else running or at the gym. 
+
+​
+
+MMIM - Victoria University of Wellington, New Zealand
+
+ARE176
+ 
 
