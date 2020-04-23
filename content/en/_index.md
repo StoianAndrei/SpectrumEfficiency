@@ -6,12 +6,12 @@ header:
   paddingY: 0
   spaceBetweenTitleSubtitle: 16
   subtitle:
-  - The world’s fastest framework for building websites
+  - Radio Frequency Spectrum Management unleashed by data automation.
   subtitleColor: null
   subtitleCursive: true
   subtitleFontSize: 18
   title:
-  - HUGO
+  - Spectrum Efficiency
   titleColor: null
   titleFontSize: 44
   titleShadow: true
