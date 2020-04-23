@@ -21,4 +21,5 @@ fields:
       format: markdown
   label: Human-friendly label
 pages:
+- content/post/build-this-page.md
 - content/post/my-first-ever-post.md
