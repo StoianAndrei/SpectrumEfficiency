@@ -1,0 +1,28 @@
+---
+label: github_page_link
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: link
+  label: link
+- type: boolean
+  name: pinned
+  label: pinned
+- type: text
+  name: repo
+  label: repo
+- type: file
+  name: thumb
+  label: thumb
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
