@@ -45,5 +45,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/Advanced R Hadley Wickham.md
