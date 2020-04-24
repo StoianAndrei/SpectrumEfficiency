@@ -1,0 +1,16 @@
+---
+label: showcase_overview
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: enableBio
+  label: enableBio
+- type: text
+  name: title
+  label: title
