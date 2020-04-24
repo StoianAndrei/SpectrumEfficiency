@@ -20,3 +20,7 @@ fields:
 - type: text
   name: type
   label: type
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
