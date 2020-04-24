@@ -1,0 +1,19 @@
+---
+label: archive
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: title
+  label: title
+- type: text
+  name: titleWrap
+  label: titleWrap
+- type: text
+  name: type
+  label: type
