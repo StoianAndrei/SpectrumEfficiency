@@ -1,0 +1,32 @@
+---
+label: photo_gallery
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: text
+    name: caption
+    label: caption
+  - type: file
+    name: image
+    label: image
+- type: text
+  name: mode
+  label: mode
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
