@@ -1,0 +1,47 @@
+---
+label: book_review
+hide_body: true
+fields:
+- type: text
+  name: ENTRYTYPE
+  label: ENTRYTYPE
+- type: textarea
+  name: abstract
+  label: abstract
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: copyright
+  label: copyright
+- type: boolean
+  name: enableToc
+  label: enableToc
+- type: boolean
+  name: enableWhoami
+  label: enableWhoami
+- type: field_group_list
+  name: links
+  label: links
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: name
+    label: name
+- type: boolean
+  name: pinned
+  label: pinned
+- type: text
+  name: publication
+  label: publication
+- type: datetime
+  name: publishDate
+  label: publishDate
+- type: text
+  name: shorttitle
+  label: shorttitle
+- type: text
+  name: title
+  label: title
