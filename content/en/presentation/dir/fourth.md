@@ -1,7 +1,7 @@
 ---
 categories:
-- null
-date: "2019-10-30T20:48:10+09:00"
+- 
+date: 2019-10-30T20:48:10+09:00
 description: My fourth presentation
 highlightTheme: monokai
 image: images/feature1/number-four.png
@@ -17,8 +17,10 @@ reveal:
       # Hugo
       ## The world’s fastest framework for building websites
   - sub:
-    - |
-      Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+    - 'Hugo is one of the most popular open-source static site generators. With its
+      amazing speed and flexibility, Hugo makes building websites fun again.
+
+'
 - main:
   - sub:
     - |
@@ -27,18 +29,16 @@ reveal:
       - [Check out the live demo](https://revealjs.com/#/)
 - main:
   - sub:
-    - |
-      You can easily create presentation documents using Markdown.
+    - 'You can easily create presentation documents using Markdown.
+
+'
 - fragment:
   - sub:
-    - |
-      # here
+    - "# here\n"
   - sub:
-    - |
-      #### you
+    - "#### you\n"
   - sub:
-    - |
-      #### go
+    - "#### go\n"
 - main:
   - sub:
     - "# POINT OF VIEW\n\nPress *ESC* to enter the slide overview.\n\nHold down the
@@ -46,36 +46,34 @@ reveal:
       click again to zoom back out. \n\n(NOTE\\: Use ctrl + click in Linux)\n"
 - fragment:
   - sub:
-    - |
-      ## FRAGMENTS
+    - "## FRAGMENTS\n"
   - sub:
-    - |
-      Hit the next arrow...
+    - 'Hit the next arrow...
+
+'
   - sub:
-    - |
-      ... to step through ...
+    - "... to step through ...\n"
   - sub:
-    - |
-      .. a
+    - ".. a\n"
   - sub:
-    - |
-      .. a fragmented
+    - ".. a fragmented\n"
   - sub:
-    - |
-      .. a fragmented slide.
-revealBackgroundColor: ""
-revealBackgroundImage: ""
-revealBackgroundOpacity: ""
-revealBackgroundPosition: ""
-revealBackgroundRepeat: ""
-revealBackgroundSize: ""
-revealBackgroundVideo: ""
+    - ".. a fragmented slide.\n"
+revealBackgroundColor: ''
+revealBackgroundImage: ''
+revealBackgroundOpacity: ''
+revealBackgroundPosition: ''
+revealBackgroundRepeat: ''
+revealBackgroundSize: ''
+revealBackgroundVideo: ''
 revealBackgroundVideoLoop: false
 revealBackgroundVideoMuted: false
 revealTheme: bagie
 series:
-- null
+- 
 tags:
-- null
+- 
 title: Fourth
+draft: true
+
 ---
