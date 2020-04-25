@@ -6,6 +6,6 @@ images = []
 mode = ""
 tags = ["contact"]
 title = "Contact us"
-type = ""
+type = "contact"
 
 +++
