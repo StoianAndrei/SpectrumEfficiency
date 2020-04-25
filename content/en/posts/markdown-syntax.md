@@ -1,13 +1,14 @@
 ---
-author: Choi
-authorEmoji: "\U0001F916"
+author: Andrei Stoian
+authorEmoji: ''
 categories:
 - themes
 - syntax
-date: "2019-12-20T12:00:06+09:00"
+- style
+- best practice
+date: 2019-12-20T12:00:06+09:00
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
-draft: false
 enableToc: true
 enableTocContent: true
 hideToc: false
@@ -19,9 +20,10 @@ tags:
 - css
 - html
 - themes
+- R
 title: Markdown Syntax Guide
----
 
+---
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
@@ -149,4 +151,3 @@ X<sup>n</sup> + Y<sup>n</sup>: Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
