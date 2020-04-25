@@ -45,5 +45,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/en/publication/book/Advanced R.md
