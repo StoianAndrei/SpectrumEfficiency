@@ -1,7 +1,7 @@
 ---
 categories:
 - 
-date: 2019-10-30T20:48:10+09:00
+date: 2019-10-30T11:48:10.000+00:00
 description: My fourth presentation
 highlightTheme: monokai
 image: images/feature1/number-four.png
@@ -74,6 +74,5 @@ series:
 tags:
 - 
 title: Fourth
-draft: true
 
 ---
