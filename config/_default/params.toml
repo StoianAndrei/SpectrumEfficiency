@@ -166,7 +166,7 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
-  [[share]]
+[[share]]
   name = "linkedin"
   
 
