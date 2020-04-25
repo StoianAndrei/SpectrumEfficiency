@@ -1,22 +1,20 @@
 ---
 ENTRYTYPE: book
-abstract: Donec vel ipsum vulputate, dapibus magna quis, auctor mauris. Aliquam ut
-  dapibus risus. Duis sit amet magna posuere, interdum metus sed, maximus tortor.
-  Maecenas tempus ut magna nec facilisis. Pellentesque vel ultrices nunc, eget ultrices
-  mauris. Ut eget ligula quis purus porta rhoncus eget at eros. In id felis ullamcorper,
-  vehicula ante sed, cursus magna. Curabitur libero nibh, posuere in urna in, viverra
-  pulvinar lectus. Pellentesque rutrum tempus elit at hendrerit. Sed enim est, bibendum
-  in augue iaculis, viverra venenatis sapien. Nullam sagittis augue maximus mi interdum
-  maximus. Praesent a cursus massa.
+abstract: This is the website for 2nd edition of “Advanced R”, a book in Chapman &
+  Hall’s R Series. The book is designed primarily for R users who want to improve
+  their programming skills and understanding of the language. It should also be useful
+  for programmers coming to R from other languages, as help you to understand why
+  R works the way it does.
 authors:
-- zzossig
+- Hadley Wickham
 copyright: All rights reserved
 enableToc: false
 enableWhoami: true
-isbn: 978-1-311-04245-3
+isbn: 0978-01-30T13:19:24+00:00
 pinned: true
-publishDate: "2017-06-01"
+publishDate: 2017-06-01
 publisher: Self-Published
-shorttitle: Donec vel ipsum vulputate
-title: Donec vel ipsum vulputate, dapibus magna quis
+shorttitle: adv-r
+title: Advanced R
+
 ---
