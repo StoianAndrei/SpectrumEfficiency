@@ -5,9 +5,10 @@ aliases:
 - blog
 - showcase
 - docs
-author: Hugo Authors
+author: Andrei Stoian
 description: Post page
 tags:
 - index
 title: Posts
+
 ---

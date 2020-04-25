@@ -1,55 +1,43 @@
 baseURL = "https://spectrumefficiency.netlify.app"
-#baseURL = "http://spectrumefficiency.icu"
-title = "Spectrum Efficiency"
-theme = "hugo-theme-zzo"
-
+buildFuture = true
+copyright = "&copy;{year}, All Rights Reserved"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
-
-summaryLength = 70
-buildFuture = true
-
-copyright = "&copy;{year}, All Rights Reserved"
-timeout = 10000
 enableEmoji = true
-paginate = 13
-rssLimit = 100
-
 enableGitInfo = false
 googleAnalytics = ""
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = true
-      unsafe = true
-      xHTML = true
-  [markup.highlight]
-    codeFences = true
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
-
+hasCJKLanguage = true
+paginate = 13
+rssLimit = 100
+summaryLength = 70
+theme = "hugo-theme-zzo"
+timeout = 10000
+title = "Spectrum Efficiency"
+[markup.goldmark.renderer]
+hardWraps = true
+unsafe = true
+xHTML = true
+[markup.highlight]
+codeFences = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+[outputFormats.SearchIndex]
+baseName = "index"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
 [outputs]
-  page = ["HTML", "SearchIndex"]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS", "SearchIndex"]
-  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
-
-[outputFormats]
-  [outputFormats.SearchIndex]
-    mediaType = "application/json"
-    baseName = "index"
-    isPlainText = true
-    notAlternative = true
-
+home = ["HTML", "RSS", "SearchIndex"]
+page = ["HTML", "SearchIndex"]
+section = ["HTML", "RSS", "SearchIndex"]
+taxonomy = ["HTML", "RSS", "SearchIndex"]
+taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
+category = "categories"
+series = "series"
+tag = "tags"

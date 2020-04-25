@@ -12,40 +12,25 @@
 
 [[main]]
   identifier = "presentation"
-  name = "Pt"
+  name = "Services"
   url = "presentation"
   weight = 3
 
-[[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
-  weight = 4
-    
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
 
 [[main]]
   identifier = "posts"
-  name = "Posts"
+  name = "Blog"
   url = "posts"
+  weight = 4
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "contact"
   weight = 5
 
 [[main]]
-  identifier = "showcase"
-  name = "Showcase"
-  url = "showcase"
-  weight = 6
-
-[[main]]
   identifier = "publication"
-  name = "Pub"
+  name = "Resources"
   url = "publication"
-  weight = 7
+  weight = 6
