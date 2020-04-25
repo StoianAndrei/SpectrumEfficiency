@@ -1,0 +1,19 @@
+---
+label: post_front_page
+hide_body: true
+fields:
+- type: list
+  name: aliases
+  label: aliases
+- type: text
+  name: author
+  label: author
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
