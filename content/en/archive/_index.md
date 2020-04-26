@@ -6,4 +6,4 @@ titleWrap: wrap
 type: archive
 ---
 
-archive page
+Find all the last blogs here.

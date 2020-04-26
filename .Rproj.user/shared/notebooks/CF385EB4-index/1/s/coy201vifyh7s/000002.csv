@@ -1,32 +1,32 @@
 "0","serve_site()
 "
-"2","Rendering content/post/2015-07-23-r-rmarkdown.Rmd
-"
+"2","You are recommended to ignore certain files in config.toml: set the option ignoreFiles = [""\\.Rmd$"", ""\\.Rmarkdown$"", ""_files$"", ""_cache$""]"
+"2","Found hugo at ""C:\Users\Stoian\AppData\Roaming/Hugo/hugo.exe"" and ""C:\PROGRA~3\CHOCOL~1\bin\hugo.exe"". The former will be used. If you don't need both copies, you may delete/uninstall one."
 "1","Building sites â€¦ 
 "
-"1","                   | EN  | KO   
+"1","                   | EN   
 "
-"1","-------------------+-----+------
+"1","-------------------+------
 "
-"1","  Pages            | 158 |  31  
+"1","  Pages            | 103  
 "
-"1","  Paginator pages  |   3 |   0  
+"1","  Paginator pages  |   0  
 "
-"1","  Non-page files   |   3 |   0  
+"1","  Non-page files   |   5  
 "
-"1","  Static files     | 128 | 128  
+"1","  Static files     | 143  
 "
-"1","  Processed images |   0 |   0  
+"1","  Processed images |   0  
 "
-"1","  Aliases          |  36 |  10  
+"1","  Aliases          |  32  
 "
-"1","  Sitemaps         |   2 |   1  
+"1","  Sitemaps         |   1  
 "
-"1","  Cleaned          |   0 |   0  
+"1","  Cleaned          |   0  
 "
 "1","
 "
-"1","Total in 7921 ms
+"1","Total in 6483 ms
 "
 "2","To stop the server, run servr::daemon_stop(1) or restart your R session
 "
