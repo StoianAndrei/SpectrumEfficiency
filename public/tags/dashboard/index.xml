@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>dashboard on Spectrum Efficiency</title>
+    <link>https://spectrumefficiency.netlify.app/tags/dashboard/</link>
+    <description>Recent content in dashboard on Spectrum Efficiency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</managingEditor>
+    <webMaster>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://spectrumefficiency.netlify.app/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Profile</title>
+        <link>https://spectrumefficiency.netlify.app/profile/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Thu, 23 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/profile/</guid>
+        <description>Andrei likes building data process. A lot. And, unlike his stakeholders, he/him likes the change that it makes to their life when implemented properly. Luckily for his stakeholders, he/him likes resolving the business chalenges even more.
+He/him also quite likes data visualisation – charts and dashboards like sharable data interactions using shiny framework. Yes, he/him likes looking at youtube videos of other people building data dashboards in his spare time.</description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>dashboard</category>
+            
+          
+            
+              <category>profile</category>
+            
+          
+            
+              <category>story</category>
+            
+          
+            
+              <category>qualifications</category>
+            
+          
+            
+              <category>experience</category>
+            
+          
+            
+              <category>gender neutral</category>
+            
+          
+            
+              <category>stakeholders</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

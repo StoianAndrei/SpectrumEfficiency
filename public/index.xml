@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Spectrum Efficiency</title>
+    <link>https://spectrumefficiency.netlify.app/</link>
+    <description>Recent content on Spectrum Efficiency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</managingEditor>
+    <webMaster>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://spectrumefficiency.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Profile</title>
+        <link>https://spectrumefficiency.netlify.app/profile/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Thu, 23 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/profile/</guid>
+        <description>Andrei likes building data process. A lot. And, unlike his stakeholders, he/him likes the change that it makes to their life when implemented properly. Luckily for his stakeholders, he/him likes resolving the business chalenges even more.
+He/him also quite likes data visualisation – charts and dashboards like sharable data interactions using shiny framework. Yes, he/him likes looking at youtube videos of other people building data dashboards in his spare time.</description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>dashboard</category>
+            
+          
+            
+              <category>profile</category>
+            
+          
+            
+              <category>story</category>
+            
+          
+            
+              <category>qualifications</category>
+            
+          
+            
+              <category>experience</category>
+            
+          
+            
+              <category>gender neutral</category>
+            
+          
+            
+              <category>stakeholders</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>My first ever post</title>
+        <link>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</link>
+        <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Wed, 22 Apr 2020 12:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</guid>
+        <description></description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://spectrumefficiency.netlify.app/blog/markdown-syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/blog/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        <media:content url="https://spectrumefficiency.netlify.appimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+            
+              <category>css</category>
+            
+          
+            
+              <category>html</category>
+            
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+            
+              <category>style</category>
+            
+          
+            
+              <category>best practice</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Viz support</title>
+        <link>https://spectrumefficiency.netlify.app/blog/test-viz/</link>
+        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/blog/test-viz/</guid>
+        <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        <media:content url="https://spectrumefficiency.netlify.appimages/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Advanced R</title>
+        <link>https://spectrumefficiency.netlify.app/resources/book/book_any_folder_name_1/</link>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/resources/book/book_any_folder_name_1/</guid>
+        <description></description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
