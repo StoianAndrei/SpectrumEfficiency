@@ -2,8 +2,12 @@
     "path" : "E://hugo-theme-zzo",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 4
         }
     ]
 }
