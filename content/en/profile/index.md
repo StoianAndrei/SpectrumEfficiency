@@ -16,11 +16,11 @@ description: Profile
 ---
 ![This is an image](/images/cover.png)
 
-Andrei likes building data process. A lot. And, unlike his stakeholders, he/him likes the change that it makes to their life when appropriately implemented. Luckily for his stakeholders, he/him likes resolving the business challenges even more.
+I like building data process. A lot. And, unlike my stakeholders,  I consider change, just the necessary step, that when implemented together, it makes a significant impact in their work life. Luckily for my stakeholders, I like resolving the business challenges even more.
 
-He/him also quite likes data visualization – charts and dashboards like sharable data interactions using the shiny framework. Yes, he/him likes looking at youtube videos of other people building data dashboards in his spare time.
+I also quite like data visualization – charts and dashboards like sharable data interactions using the Shiny framework. Yes, I like looking at youtube videos of other people building data dashboards in my spare time.
 
-He/him has a 10+ year experience in the telecommunication industry, and the last three years have been within the government.
+I amounted to 10+ years of experience in the telecommunication industry, and the last three years have been within the government.
 
 When not eagerly anticipating his clients’ next innovation challenge, he will be doing something daunting like diving, mountain biking, snow snowboarding, or else running or at the gym.
 
