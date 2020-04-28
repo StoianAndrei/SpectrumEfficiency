@@ -8,12 +8,32 @@
   </url>
   
   <url>
+    <loc>https://spectrumefficiency.netlify.app/contact/</loc>
+    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spectrumefficiency.netlify.app/tags/dashboard/</loc>
+    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spectrumefficiency.netlify.app/tags/data-automation/</loc>
+    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spectrumefficiency.netlify.app/tags/r/</loc>
+    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spectrumefficiency.netlify.app/contact/contact-us/</loc>
     <lastmod>2020-04-24T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spectrumefficiency.netlify.app/contact/</loc>
+    <loc>https://spectrumefficiency.netlify.app/tags/spectrum-management/</loc>
     <lastmod>2020-04-24T12:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://spectrumefficiency.netlify.app/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/tags/dashboard/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://spectrumefficiency.netlify.app/tags/r/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://spectrumefficiency.netlify.app/tags/stakeholders/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -73,17 +83,12 @@
   </url>
   
   <url>
-    <loc>https://spectrumefficiency.netlify.app/blog/</loc>
-    <lastmod>2020-04-22T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</loc>
-    <lastmod>2020-04-22T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://spectrumefficiency.netlify.app/categories/best-practice/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spectrumefficiency.netlify.app/blog/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
@@ -140,26 +145,6 @@
   <url>
     <loc>https://spectrumefficiency.netlify.app/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/blog/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/presentation/fourth/</loc>
-    <lastmod>2019-10-30T11:48:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spectrumefficiency.netlify.app/presentation/</loc>
-    <lastmod>2019-10-30T11:48:10+00:00</lastmod>
   </url>
   
   <url>

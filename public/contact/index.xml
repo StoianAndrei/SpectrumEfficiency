@@ -23,13 +23,15 @@
 
       
       <item>
-        <title>Contact us</title>
+        <title>Spectrum Efficiency</title>
         <link>https://spectrumefficiency.netlify.app/contact/contact-us/</link>
         <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
         <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
         <atom:modified>Fri, 24 Apr 2020 12:00:00 +0000</atom:modified>
         <guid>https://spectrumefficiency.netlify.app/contact/contact-us/</guid>
-        <description></description>
+        <description>I started a company some years ago intending to act as a conduit between tree entities that work together in a symbiosis relation.
+In my opinion, these three entities are
+ the public the business/professionals the regulator/government.  I have had prior exposure and training with my first job in New Zealand. It is here that I saw this gap that I wanted to address. When I joined Radio Spectrum Management, I quickly realized how deep the rabbit hole goes and that I have only scratched the surface.</description>
         
         <dc:creator>Andrei Stoian</dc:creator>
         <media:content url="https://spectrumefficiency.netlify.app/uploads/default.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -39,6 +41,22 @@
           
             
               <category>contact</category>
+            
+          
+            
+              <category>spectrum management</category>
+            
+          
+            
+              <category>data automation</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Dashboard</category>
             
           
         

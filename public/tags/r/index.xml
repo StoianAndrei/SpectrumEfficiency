@@ -14,7 +14,7 @@
     <managingEditor>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</managingEditor>
     <webMaster>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 12:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://spectrumefficiency.netlify.app/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,14 +23,56 @@
 
       
       <item>
+        <title>Spectrum Efficiency</title>
+        <link>https://spectrumefficiency.netlify.app/contact/contact-us/</link>
+        <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Fri, 24 Apr 2020 12:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/contact/contact-us/</guid>
+        <description>I started a company some years ago intending to act as a conduit between tree entities that work together in a symbiosis relation.
+In my opinion, these three entities are
+ the public the business/professionals the regulator/government.  I have had prior exposure and training with my first job in New Zealand. It is here that I saw this gap that I wanted to address. When I joined Radio Spectrum Management, I quickly realized how deep the rabbit hole goes and that I have only scratched the surface.</description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        <media:content url="https://spectrumefficiency.netlify.app/uploads/default.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>contact</category>
+            
+          
+            
+              <category>spectrum management</category>
+            
+          
+            
+              <category>data automation</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Dashboard</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Profile</title>
         <link>https://spectrumefficiency.netlify.app/profile/</link>
         <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
         <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
         <atom:modified>Thu, 23 Apr 2020 00:00:00 +0000</atom:modified>
         <guid>https://spectrumefficiency.netlify.app/profile/</guid>
-        <description>Andrei likes building data process. A lot. And, unlike his stakeholders, he/him likes the change that it makes to their life when implemented properly. Luckily for his stakeholders, he/him likes resolving the business chalenges even more.
-He/him also quite likes data visualisation – charts and dashboards like sharable data interactions using shiny framework. Yes, he/him likes looking at youtube videos of other people building data dashboards in his spare time.</description>
+        <description>I like building data process. A lot. And, unlike my stakeholders, I consider change, just the necessary step, that when implemented together, it makes a significant impact in their work life. Luckily for my stakeholders, I like resolving the business challenges even more.
+I also quite like data visualization – charts and dashboards like sharable data interactions using the Shiny framework. Yes, I like looking at youtube videos of other people building data dashboards in my spare time.</description>
         
         <dc:creator>Andrei Stoian</dc:creator>
         

@@ -14,31 +14,13 @@
     <managingEditor>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</managingEditor>
     <webMaster>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://spectrumefficiency.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
-      
-      <item>
-        <title>My first ever post</title>
-        <link>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</link>
-        <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
-        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
-        <atom:modified>Wed, 22 Apr 2020 12:00:00 +0000</atom:modified>
-        <guid>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</guid>
-        <description></description>
-        
-        <dc:creator>Andrei Stoian</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
@@ -99,38 +81,6 @@
           
             
               <category>Themes Guide</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Viz support</title>
-        <link>https://spectrumefficiency.netlify.app/blog/test-viz/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
-        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
-        <guid>https://spectrumefficiency.netlify.app/blog/test-viz/</guid>
-        <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
-        
-        <dc:creator>Andrei Stoian</dc:creator>
-        <media:content url="https://spectrumefficiency.netlify.appimages/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
             
           
         

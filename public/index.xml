@@ -50,8 +50,8 @@
         <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
         <atom:modified>Thu, 23 Apr 2020 00:00:00 +0000</atom:modified>
         <guid>https://spectrumefficiency.netlify.app/profile/</guid>
-        <description>Andrei likes building data process. A lot. And, unlike his stakeholders, he/him likes the change that it makes to their life when implemented properly. Luckily for his stakeholders, he/him likes resolving the business chalenges even more.
-He/him also quite likes data visualisation – charts and dashboards like sharable data interactions using shiny framework. Yes, he/him likes looking at youtube videos of other people building data dashboards in his spare time.</description>
+        <description>I like building data process. A lot. And, unlike my stakeholders, I consider change, just the necessary step, that when implemented together, it makes a significant impact in their work life. Luckily for my stakeholders, I like resolving the business challenges even more.
+I also quite like data visualization – charts and dashboards like sharable data interactions using the Shiny framework. Yes, I like looking at youtube videos of other people building data dashboards in my spare time.</description>
         
         <dc:creator>Andrei Stoian</dc:creator>
         
@@ -91,24 +91,6 @@ He/him also quite likes data visualisation – charts and dashboards like sharab
               <category>stakeholders</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>My first ever post</title>
-        <link>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</link>
-        <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
-        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
-        <atom:modified>Wed, 22 Apr 2020 12:00:00 +0000</atom:modified>
-        <guid>https://spectrumefficiency.netlify.app/blog/my-first-ever-post/</guid>
-        <description></description>
-        
-        <dc:creator>Andrei Stoian</dc:creator>
-        
-        
-        
         
         
         
@@ -179,45 +161,15 @@ He/him also quite likes data visualisation – charts and dashboards like sharab
       </item>
       
       <item>
-        <title>Viz support</title>
-        <link>https://spectrumefficiency.netlify.app/blog/test-viz/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
-        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
-        <guid>https://spectrumefficiency.netlify.app/blog/test-viz/</guid>
-        <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
-        
-        <dc:creator>Andrei Stoian</dc:creator>
-        <media:content url="https://spectrumefficiency.netlify.appimages/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
         <title>Advanced R</title>
         <link>https://spectrumefficiency.netlify.app/resources/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
         <guid>https://spectrumefficiency.netlify.app/resources/book/book_any_folder_name_1/</guid>
-        <description></description>
+        <description>Advanced R ![Cover image](https://d33wubrfki0l68.cloudfront.net/565916198b0be51bf88b36f94b80c7ea67cafe7c/7f70b/cover.png =250x366)
+This is the website for 2nd edition of “Advanced R”, a book in Chapman &amp;amp; Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does.
+Hadley Wickham</description>
         
         <dc:creator>Andrei Stoian</dc:creator>
         
