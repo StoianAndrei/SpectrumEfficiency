@@ -28,14 +28,14 @@ Due to conflict of interests, I never pursued the dream of owning a company. I k
 
 The values that it is built on are 
 
-Professionalism 
+### Professionalism 
 
 * I want to share thoughts and have opinions about various topics within the telecommunications industry.
 
-Accuracy 
+### Accuracy 
 
 * I want to always base my opinions on facts and provide a reproducible report. 
 
-Optimized
+### Optimized
 
 * I want to provide the easiest most efficient way to consume this information. 
