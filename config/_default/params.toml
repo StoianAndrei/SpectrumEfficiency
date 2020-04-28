@@ -176,4 +176,8 @@ commento = false
 [[footerLinks]]
   name = ""
   link = ""
+[Permalinks]
+    # post = "/:year/:month/:day/:filename/"
+    blog = "/:filename/"
+    # thoughts = "/:filename/"
 
