@@ -20,4 +20,4 @@ I have had prior exposure and training with my first job in New Zealand. It is h
 
 Thus Spectrum Efficiency was incorporated:
 
-!\[Spectrum Efficiency\](/images/spectrum_efficiency_limited_certificate_of_incorporation.JPG)
+!\[Spectrum Efficiency\](/static/images/spectrum_efficiency_limited_certificate_of_incorporation.JPG)
