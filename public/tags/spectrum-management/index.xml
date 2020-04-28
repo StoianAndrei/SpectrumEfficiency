@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>spectrum management on Spectrum Efficiency</title>
+    <link>https://spectrumefficiency.netlify.app/tags/spectrum-management/</link>
+    <description>Recent content in spectrum management on Spectrum Efficiency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</managingEditor>
+    <webMaster>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Apr 2020 12:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://spectrumefficiency.netlify.app/tags/spectrum-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Spectrum Efficiency</title>
+        <link>https://spectrumefficiency.netlify.app/contact/contact-us/</link>
+        <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+        <author>spectrum.efficiency.limited@gmail.com (Andrei Stoian)</author>
+        <atom:modified>Fri, 24 Apr 2020 12:00:00 +0000</atom:modified>
+        <guid>https://spectrumefficiency.netlify.app/contact/contact-us/</guid>
+        <description>I started a company some years ago intending to act as a conduit between tree entities that work together in a symbiosis relation.
+In my opinion, these three entities are
+ the public the business/professionals the regulator/government.  I have had prior exposure and training with my first job in New Zealand. It is here that I saw this gap that I wanted to address. When I joined Radio Spectrum Management, I quickly realized how deep the rabbit hole goes and that I have only scratched the surface.</description>
+        
+        <dc:creator>Andrei Stoian</dc:creator>
+        <media:content url="https://spectrumefficiency.netlify.app/uploads/default.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>contact</category>
+            
+          
+            
+              <category>spectrum management</category>
+            
+          
+            
+              <category>data automation</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Dashboard</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
