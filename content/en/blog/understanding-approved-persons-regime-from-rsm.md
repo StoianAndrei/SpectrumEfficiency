@@ -1,6 +1,6 @@
 +++
 author = "Andrei Stoian"
-categories = ["policy", "government"]
+categories = ["Public Information Brochure", "best practice", "policy", "government"]
 date = 2020-04-28T06:00:00Z
 description = "In this article we dive in and understand why do we have Approved Persons?"
 draft = true
