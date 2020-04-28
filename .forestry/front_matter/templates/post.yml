@@ -37,5 +37,3 @@ fields:
 - type: list
   name: series
   label: series
-pages:
-- content/en/blog/understanding-approved-persons-regime-from-rsm.md
