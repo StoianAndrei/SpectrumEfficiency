@@ -47,7 +47,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Wellington, New Zealand"
 organization = "Spectrum Efficiency"
-link = "https://spectrumefficiency.netlify.app"
+link = "https://www.spectrumefficiency.co.nz/"
 
 # sidebar
 enableBio = true
