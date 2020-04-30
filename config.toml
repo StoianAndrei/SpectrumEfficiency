@@ -1,4 +1,4 @@
-baseURL = "https://www.spectrumefficiency.co.nz/profile/"
+baseURL = "https://www.spectrumefficiency.co.nz/"
 buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 defaultContentLanguage = "en"
