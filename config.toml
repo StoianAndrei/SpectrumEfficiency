@@ -1,4 +1,4 @@
-baseURL = "https://spectrumefficiency.netlify.app"
+baseURL = "https://www.spectrumefficiency.co.nz/profile/"
 buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 defaultContentLanguage = "en"
