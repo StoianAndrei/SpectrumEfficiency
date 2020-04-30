@@ -7,7 +7,7 @@ before_script:
 - rm -rf public
 - hugo
 script:
-- aws s3 sync public/ s3://spectrumefficiency.co.nz --acl public-read --delete
+- aws s3 sync public/ s3://spectrumefficiency --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id E3EJ3HMYWAUW30 --paths '/*'
 branches:
  only:
