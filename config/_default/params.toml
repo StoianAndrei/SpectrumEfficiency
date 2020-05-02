@@ -183,5 +183,5 @@ commento = false
 [copyrightOptions]
   enableCopyrightLink = true
   copyrightLink = "http://creativecommons.org/licenses/by-sa/4.0/"
-  copyrightLinkImage = "/upload/CC-BY-SA-4.png"
+  copyrightLinkImage = "/static/upload/CC-BY-SA-4.png"
   copyrightLinkText = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
