@@ -180,4 +180,8 @@ commento = false
     # post = "/:year/:month/:day/:filename/"
     blog = "/:filename/"
     # thoughts = "/:filename/"
-
+[copyrightOptions]
+  enableCopyrightLink = true
+  copyrightLink = "http://creativecommons.org/licenses/by-sa/4.0/"
+  copyrightLinkImage = "https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc.logo.circle.svg"
+  copyrightLinkText = "copyright link text"
