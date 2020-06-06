@@ -1,24 +1,24 @@
-logoText = "Andrei Stoian"
+logoText = "Home"
 logoType = "short" # long, short
 description = "Radio Frequency Spectrum management unleashed through data automation."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = "light"
+themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["contact", "talks", "about","code", "publication", "presentation", "resume","slides","graphs","gallery"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "code", "publication", "presentation"]#, "resume"
+notAllowedTypesInArchive = ["about", "talks", "code", "publication", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "code", "publication", "presentation",  "gallery", "resume"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "narrow" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
 # header
-homeHeaderType = "text" # text, img, slide
+homeHeaderType = "slide" # text, img, slide
 
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]
@@ -42,12 +42,12 @@ pubPaginate = 20
 # whoami
 myname = "Andrei Stoian"
 email = "spectrum.efficiency.limited@gmail.com"
-whoami = "Data automation with telecommunication SME"
-bioImageUrl = ""
+whoami = "Data Analytics with telecommunication SME"
+bioImageUrl = "/images/whoami/Andrei Stoian.png"
 useGravatar = false
 location = "Wellington, New Zealand"
 organization = "Spectrum Efficiency"
-link = "https://spectrumefficiency.netlify.app"
+link = "https://www.spectrumefficiency.co.nz/"
 
 # sidebar
 enableBio = true
@@ -90,7 +90,7 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "https-www-spectrumefficiency-co-nz"
 commento = false
 
 [telegram]
@@ -114,6 +114,25 @@ commento = false
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
 
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[valine]
+  enable = false
+  appId = ''
+  appKey = ''
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm' 
+  placeholder = ''
+  visitor = false
+
+[changyan]
+  changyanAppid = ""        # Changyan app id             # 畅言
+  changyanAppkey = ""       # Changyan app key
+
+[livere]
+  livereUID = ""            # LiveRe UID                  # 来必力
 
 # Isso: https://posativ.org/isso/
 [isso]
@@ -123,10 +142,10 @@ commento = false
 
 [socialOptions]
   email = "spectrum.efficiency.limited@gmail.com"
-  phone = "0273982291"
+  phone = "Tel:+64273982291"
   facebook = "https://www.facebook.com/andrei.stoian.9461799"
-  twitter = "https://twitter.com/lord_stoian"
-  github = "https://github.com/StoianAndrei/hugo-theme-zzo"
+  twitter = "https://twitter.com/RadioSpectrumEf"
+  github = "https://github.com/StoianAndrei/"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
@@ -166,9 +185,8 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
-[[share]]
+  [[share]]
   name = "linkedin"
-  
 
 [[footerLinks]]
   name = ""
@@ -176,4 +194,10 @@ commento = false
 [[footerLinks]]
   name = ""
   link = ""
-
+  [permalinks]
+    posts = "/:year/:month/:day/:slug/"
+[copyrightOptions]
+  enableCopyrightLink = true
+  copyrightLink = "http://creativecommons.org/licenses/by-sa/4.0/"
+  copyrightLinkImage = "/uploads/CC-BY-SA-4.png"
+  copyrightLinkText = "CC BY-SA 4.0"

@@ -1,36 +1,87 @@
 [[main]]
-  identifier = "profile"
-  name = "Profile"
-  url = "profile"
-  weight = 1
+  identifier = "business"
+  name = "Work with us"
+  url = "business"
+  weight = 1    
+[[main]]
+  identifier = "spectrum  "
+  name = "Spectrum News!"
+  url = "spectrum"
+  weight = 2   
+
+
+
+#[[main]]
+#  identifier = "archive"
+#  name = "Archive"
+#  url = "archive"
+#  weight = 2
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
-  weight = 2
-
-[[main]]
-  identifier = "services"
-  name = "Services"
-  url = "services"
+  parent = "posts"
+  identifier = "slides"
+  name = "Get slides"
+  url = "slides"
   weight = 3
 
 
 [[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "blog"
+  parent = "posts"
+  identifier = "graphs"
+  name = "Get graphs"
+  url = "graphs"
   weight = 4
+    
+[[main]]
+  identifier = "posts"
+  name = "Free Resources"
+  url = "posts"
+  weight = 5    
 
+[[main]]
+  parent = "posts"
+  name = "Blog"
+  url = "posts"
+  weight = 5
+
+[[main]]
+  parent = "posts"
+  identifier = "code"
+  name = "Get code"
+  url = "code"
+  weight = 1
+
+#[[main]]
+#  identifier = "publication"
+#  name = "Publications"
+#  url = "publication"
+#  weight = 7
+ 
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 6
+
+ [[main]]
+  parent = "about"
+  name = "My curiculum"
+  url = "about/resume"
+  weight = 1
+  [[main]]
+  parent = "about"
+  name = "About"
+  url = "about/about"
+  weight = 3
+  [[main]]
+  parent = "about"
+  name = "Guidelines"
+  url = "about/communityguideline"
+  weight = 2
 [[main]]
   identifier = "contact"
   name = "Contact"
   url = "contact"
-  weight = 5
+  weight = 7
 
-[[main]]
-  identifier = "resources"
-  name = "Resources"
-  url = "resources"
-  weight = 6
+  

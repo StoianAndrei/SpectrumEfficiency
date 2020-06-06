@@ -45,16 +45,12 @@ header:
     draggable: true
     startSlide: 0
     stopPropagation: true
-    imageSrc: static/images/cover.png # your image file path: root/static/images/header/background.jpg
-    imageSize: cover # auto|length|cover|contain|initial|inherit
-    imageRepeat: no-repeat # repeat|repeat-x|repeat-y|no-repeat|initial|inherit
-    imagePosition: center # x% y%| xpos ypos| left top| center bottom| ...
   slide:
   - align: left
     imagePosition: center
     imageRepeat: no-repeat
     imageSize: cover
-    imageSrc: root/static/images/cover.png # your image file path: root/static/images/header/background.jpg
+    imageSrc: graphs
     paddingX: 50
     paddingY: 0
     spaceBetweenTitleSubtitle: 20
@@ -68,7 +64,7 @@ header:
     imagePosition: center
     imageRepeat: no-repeat
     imageSize: cover
-    imageSrc: images/header/background.jpg
+    imageSrc: graphs/unnamed-chunk-4-1.png
     paddingX: 50
     paddingY: 0
     spaceBetweenTitleSubtitle: 20
