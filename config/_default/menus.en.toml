@@ -40,7 +40,7 @@
 
 [[main]]
   parent = "posts"
-  name = "Blog"
+  name = "Posts"
   url = "posts"
   weight = 5
 

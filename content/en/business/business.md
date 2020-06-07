@@ -17,7 +17,7 @@ tags:
 - contact
 - spectrum management
 - data automation
-draft: true
+draft: false
 ---
 
 ![](/uploads/busines_gap_regulator.jpg)
