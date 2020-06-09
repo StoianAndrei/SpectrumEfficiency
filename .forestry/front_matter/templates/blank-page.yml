@@ -20,5 +20,3 @@ fields:
     schema:
       format: markdown
   label: Human-friendly label
-pages:
-- content/post/my-first-ever-post.md
