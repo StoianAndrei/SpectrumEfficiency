@@ -141,7 +141,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "spectrum.efficiency.limited@gmail.com"
+  email = "mailto:spectrum.efficiency.limited@gmail.com"
   phone = "Tel:+64273982291"
   facebook = "https://www.facebook.com/andrei.stoian.9461799"
   twitter = "https://twitter.com/RadioSpectrumEf"
