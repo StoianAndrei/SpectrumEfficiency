@@ -22,9 +22,6 @@ dir.image <- "static"
 library(tidyquant)
 library(tidyverse)
 library(ggplot2)
-library(blogdown)
-library(styler)
-
 
 ```
 As always with anything you start with a blank canvas. In this document we will explore how to use some base function in `R` togheter with visualisation using `ggplot2` package. 
