@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const sunIcon = (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +79,7 @@ const ThemeSwitcher = () => {
   );
 };
 
-export default function Footer({ copyrightText }) {
+/*export default function Footer({ copyrightText }) {
   return (
     <footer className="py-16 flex flex-col items-center">
       <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
@@ -86,4 +88,17 @@ export default function Footer({ copyrightText }) {
       <ThemeSwitcher />
     </footer>
   );
+}*/
+
+
+export default function Footer() {
+  return (
+    <footer className="py-16 flex flex-col items-center">
+      <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
+    <Link href="https://stoianandreimircea.zohobookings.com/#/customer/111">
+      <a>Book Here</a>
+    </Link>
+    </p>
+    </footer>
+  )
 }
