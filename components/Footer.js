@@ -99,6 +99,7 @@ export default function Footer() {
       <a>Book Here</a>
     </Link>
     </p>
+    <ThemeSwitcher />
     </footer>
-  )
+  );
 }
