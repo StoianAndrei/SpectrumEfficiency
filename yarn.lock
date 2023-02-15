@@ -4964,9 +4964,9 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-netlify-plugin-cypress@~2.2.0:
+netlify-plugin-cypress@^2.2.0:
   version "2.2.0"
-  resolved "https://registry.npmjs.org/netlify-plugin-cypress/-/netlify-plugin-cypress-2.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-cypress/-/netlify-plugin-cypress-2.2.0.tgz#d38964e761fab7cd80fc45b487f54794c6792937"
   integrity sha512-J8dt12slBztXLdEH9XCBiEgkbJjM1RVMcHmJrnRFydh2y0lGtGEN5OmMeCKKZ7Jvv7rrxMvVcuvtHNi+D4dq2Q==
   dependencies:
     common-tags "1.8.0"
