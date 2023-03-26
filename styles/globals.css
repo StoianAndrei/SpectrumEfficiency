@@ -15,3 +15,42 @@ h6 {
 body {
   font-family: var(--font-secondary);
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  background-color: rgba(114, 114, 114, 0);
+  padding: 10px;
+  border-radius: 2vw;
+}
+
+/*
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+  border-radius: 0.9vw;
+} */
+.grid-container > div {
+-webkit-text-size-adjust: 100%;
+-webkit-font-smoothing: antialiased;
+--wp--preset--font-size--normal: 16px;
+--wp--preset--font-size--huge: 42px;
+
+--base: #f0f0f0;
+--base-2: #f7f8f9;
+--base-3: #ffffff;
+--accent: #163B59;
+--global-color-8: #775AD4;
+--global-color-9: #57D6CA;
+font-weight: 400;
+text-transform: none;
+line-height: 1.5;
+color: var(--accent);
+font-family: Open Sans, sans-serif;
+font-size: 18px;
+word-wrap: break-word;
+box-sizing: inherit;
+}

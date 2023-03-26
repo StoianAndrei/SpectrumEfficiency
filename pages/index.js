@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getPosts } from '../utils/mdx-utils';
 
+import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Layout, { GradientBackground } from '../components/Layout';
@@ -12,6 +13,7 @@ export default function Index({ posts, globalData }) {
   return (
     <Layout>
       <SEO title={globalData.name} description={globalData.blogTitle} />
+      <Navbar />
       <Header name={globalData.name} />
       <main className="w-full">
         <h1 className="text-3xl lg:text-5xl text-center mb-12">
@@ -65,3 +67,4 @@ export function getStaticProps() {
 
   return { props: { posts, globalData } };
 }
+
