@@ -10,10 +10,10 @@ export default function Learn() {
           Why Spectrum Efficiency is Good for Your Data Project
         </h1>
         <p className="mb-4">
-          At Spectrum Efficiency, we&apos;re committed to helping you optimize your data project for success.
+          At Spectrum Efficiency, we are committed to helping you optimize your data project for success.
           Our expert team specializes in delivering
           top-quality solutions for a wide range of industries, from healthcare
-          to finance and beyond. By partnering with us, you'll gain access to
+          to finance and beyond. By partnering with us, you will gain access to
           cutting-edge technology, personalized support, and a wealth of
           industry knowledge.
         </p>
