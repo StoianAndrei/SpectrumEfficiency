@@ -6,6 +6,7 @@ import {
   postFilePaths,
 } from '../../utils/mdx-utils';
 
+
 import { MDXRemote } from 'next-mdx-remote';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -15,6 +16,8 @@ import Footer from '../../components/Footer';
 import Header from '../../components/Header';
 import Layout, { GradientBackground } from '../../components/Layout';
 import SEO from '../../components/SEO';
+import Navbar from '../../components/Navbar';
+
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -41,6 +44,7 @@ export default function PostPage({
         title={`${frontMatter.title} - ${globalData.name}`}
         description={frontMatter.description}
       />
+       <Navbar />
       <Header name={globalData.name} />
       <article className="px-6 md:px-0">
         <header>
