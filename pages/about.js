@@ -28,7 +28,7 @@ export default function About() {
                     </div>
             <div>
               <h3 class="headline  headline-text">Customer Data Success</h3>
-              <p class="headline   headline-text">We value the productivity and success of our customers by leveraging the power of customer data. We respect and embrace diverse perspectives, keeping a positive intent, and always acknowledging and celebrating our customers' achievements.</p>                      
+              <p class="headline   headline-text">We value the productivity and success of our customers by leveraging the power of customer data. We respect and embrace diverse perspectives, keeping a positive intent, and always acknowledging and celebrating our customers achievements.</p>                      
               </div>
               <div>
                 <h3 class="headline  headline-text">Business Neutrality</h3>
@@ -46,7 +46,7 @@ export default function About() {
 
           <h2 className="text-2xl font-bold mb-4">Our Partners &amp; Technologies</h2>
           <p className="mb-8">
-            We partner with some of the world's leading technology companies to deliver cutting-edge data analytics solutions to our clients. Our team has expertise in a wide range of data analysis tools and technologies, including Python, R, SQL, Tableau, and more.
+            We partner with some of the worlds leading technology companies to deliver cutting-edge data analytics solutions to our clients. Our team has expertise in a wide range of data analysis tools and technologies, including Python, R, SQL, Tableau, and more.
           </p>
         </div>
       </section>
